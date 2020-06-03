@@ -16,6 +16,7 @@
 - Filling algorithms
   - Boundary fill
   - Flood Fill
+  - Scan-line Polgon fill
 - Line drawing algorithms
   - Bresenham
   - Digital Differential Analyzer (DDA)
